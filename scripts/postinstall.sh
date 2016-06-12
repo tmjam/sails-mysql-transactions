@@ -2,7 +2,7 @@
 
 INFO="sails-mysql-transactions:"; # for console logs
 
-MOD_DIR="../../node_modules";
+MOD_DIR="../..";
 
 set -e;
 
